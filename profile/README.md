@@ -26,12 +26,15 @@ Same as AI Team, you don't need to tick all the boxes. Here is the stack:
 
 ## Contact us directly if you want to apply! 
 For AI Team, contact Yiyang Lu: y.lu@pdm-solutions.com
+
 For Platform Team, contact Alexander Ansorge: a.ansorge@pdm-solutions.com
+
 
 We look forward to hearing from you and explore what we can achieve together!
 
 ## FAQ
 1. Q: Why did you not translate Das Telefonbuch?
+   
    A: It is exactly what it means when you try to pronounce it in English
    
 <!--
