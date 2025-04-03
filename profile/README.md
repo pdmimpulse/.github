@@ -4,8 +4,8 @@
 We are the in-house innovation team of [pdm solutions GmbH](https://pdm-solutions.com/en/), a berlin-based software studio that manages the digital presence of well-known German SME directories including [Gelbe Seiten](https://www.gelbeseiten.de/) (Yellow Pages), [Das Telefonbuch](https://www.dastelefonbuch.de/), and [Das Örtliche](https://www.dasoertliche.de/) (The Local). 
 
 Our innovation team comprises of two major branches: AI and Platform. 
-  - The AI Team explores application-layer use case of AI both in internal process optimization and new product prototyping. 
-  - The Platform Team is currently developing a new product to reduce the complexity of getting home services
+  - The AI Team explores application-layer use case of AI both in internal process optimization and new product prototyping. The team develops multiple projects of different sizes at the same time and are more tech-heavy
+  - The Platform Team examines new platform business ideas and build prototypes one project at a time and is more business-heavy
 
 ## Yes, we are hiring 🤩
 So what are we looking for? It depends on the team:
@@ -15,14 +15,19 @@ We believe good developers are also fast-learners, so you do **not** have to tic
 |Backend|Frontend|Database|Cloud|AI|
 |-------|--------|--------|-----|--|
 |Python | Remix  |DynamoDB| AWS |OpenAI|
-|node.js(ts)|    |   S3   |(SST)|Anthropic|
-|       |        |Postgres|     |Groq|
+|node.js(ts)|    |   S3   |(SST/pulumi/Terraform)|Anthropic|
+|  Go   |        |Postgres|     |Groq|
+|       |        |        |     |Other ML/DL|
+
+The AI Team looks to hire both full-stack and specialist engineers.
 
 ### Platform Team: 
 Same as AI Team, you don't need to tick all the boxes. Here is the stack:
-|Backend|Frontend|Database|Cloud|AI|
-|-------|--------|--------|-----|--|
-|Python |Next.js |Postgres| AWS |Vapi|
+|Backend|Frontend|Database|Cloud|
+|-------|--------|--------|-----|
+|Python |Remix |Postgres| AWS |
+
+The Platform Team looks to hire full-stack engineers only. 
 
 ## Contact us directly if you want to apply! 
 For AI Team, contact Yiyang Lu: y.lu@pdm-solutions.com
@@ -31,11 +36,6 @@ For Platform Team, contact Alexander Ansorge: a.ansorge@pdm-solutions.com
 
 
 We look forward to hearing from you and explore what we can achieve together!
-
-## FAQ
-1. Q: Why did you not translate Das Telefonbuch?
-   
-   A: It is exactly what it means when you try to pronounce it in English
    
 <!--
 
